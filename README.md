@@ -16,4 +16,5 @@ Tecnologias Utilizadas
 
 - Página Inicial: Apresenta uma visão geral da barbearia, incluindo uma breve introdução e destaque dos serviços.
 - Serviços: Descrição detalhada dos serviços oferecidos pela barbearia.
-- Contato: Informações de contato da barbearia, incluindo endereço, telefone e 
+- Contato: Informações de contato da barbearia, incluindo endereço, telefone e.
+
