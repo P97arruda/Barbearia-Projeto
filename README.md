@@ -1,4 +1,4 @@
- Site de Barbearia
+ Site de Barbearia-meu primeiro projeto 
 
 Este é um projeto de um site de barbearia criado utilizando apenas HTML e CSS, juntamente com algumas bibliotecas de fontes para melhorar a estética. Este foi meu primeiro trabalho usando essas linguagens e me ajudou a praticar e consolidar o que tenho aprendido ao longo do tempo.
 
@@ -17,4 +17,5 @@ Tecnologias Utilizadas
 - Página Inicial: Apresenta uma visão geral da barbearia, incluindo uma breve introdução e destaque dos serviços.
 - Serviços: Descrição detalhada dos serviços oferecidos pela barbearia.
 - Contato: Informações de contato da barbearia, incluindo endereço, telefone e.
+  
 
